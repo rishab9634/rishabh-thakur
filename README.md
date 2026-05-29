@@ -23,10 +23,10 @@
 
 | Contact | Link |
 |---------|------|
-| 📧 **Email** | [thakurrishab964@gmail.com](mailto: thakurrishab964@gmail.com) |
+| 📧 **Email** | (mailto: thakurrishab964@gmail.com) |
 | 💼 **LinkedIn** | [https://www.linkedin.com/in/rishab-thakur-313962338?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://linkedin.com/in/rishabthakur) |
 | 🐦 **Twitter** | [@rishabthakur](https://twitter.com/rishabthakur) |
-| 🌐 **Portfolio** | [rishabh cyver]() |
+| 🌐 **Portfolio** | [rishabh cyver]() 
 
 </div>
 
