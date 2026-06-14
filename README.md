@@ -43,6 +43,7 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FFA90C?style=for-the-badge&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![RAT] (https://sourceforge.net/projects/rat.mirror/)
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
