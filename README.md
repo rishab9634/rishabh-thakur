@@ -23,9 +23,9 @@
 
 | Contact | Link |
 |---------|------|
-| 📧 **Email** | (mailto: thakurrishab964@gmail.com) |
+| 📧 **Email** | (mailto: rishabhcyberx@gmail.com) |
 | 💼 **LinkedIn** | [https://www.linkedin.com/in/rishab-thakur-313962338?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://linkedin.com/in/rishabthakur) |
-| 🐦 **Twitter** | [@rishabthakur](https://twitter.com/rishabthakur) |
+| 🐦 **Twitter** | [@rishabhcyber]([https://twitter.com/rishabthakur](https://x.com/RishabhCyber)) |
 | 🌐 **Portfolio** | [rishabh cyber] (https://rishab9634.github.io/rishabh_portfoli/)
 
 </div>
