@@ -28,7 +28,7 @@
 | 📧 **Email** | [rishabhcyberx@gmail.com](mailto:rishabhcyberx@gmail.com) |
 | 💼 **LinkedIn** | [https://www.linkedin.com/in/rishab-thakur-313962338](https://linkedin.com/in/rishabthakur) |
 | 🐦 **Twitter/X** | [@rishabhcyber](https://x.com/RishabhCyber) |
-| 🌐 **Portfolio** | [https://rishab9634.github.io/rishabh_portfoli/](https://rishabh-portfoli-coral.vercel.app/)) |
+| 🌐 **Portfolio** | [[[]](https://rishabh-portfoli-coral.vercel.app/)(https://rishabh-portfoli-coral.vercel.app/)]
 
 </div>
 
